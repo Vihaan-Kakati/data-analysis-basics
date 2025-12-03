@@ -25,6 +25,7 @@ This repository is organized by library, with each section containing notebooks 
     * `📄 array_manipulation.ipynb`: Slicing, reshaping, and stacking arrays.
 
 * **`📁 02-Pandas`**: Focuses on data manipulation and analysis using Pandas.
+    * `📁 data` : Contains all the data used in this repo. Data is sourced from https://github.com/KeithGalli/complete-pandas-tutorial.git
     * `📄 series_and_dataframes.ipynb`: Introduction to Series and DataFrame objects.
     * `📄 data_cleaning_and_wrangling.ipynb`: Techniques for handling missing data, filtering, grouping (`.groupby()`), and merging datasets.
 
